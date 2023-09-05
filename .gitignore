@@ -1,0 +1,5 @@
+index.php
+storage/
+vendor/
+composer.lock
+.vscode/

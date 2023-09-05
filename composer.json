@@ -1,0 +1,15 @@
+{
+    "name": "destcable/api-client",
+    "autoload": {
+        "psr-4": {
+            "Client\\": "client/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Destcable",
+            "email": "artmobpavlov21@gmail.com"
+        }
+    ],
+    "require": {}
+}
